@@ -11,7 +11,7 @@ setup(name='cbpi4-GembirdUSB',
       description='CraftBeerPi4 Plugin for Gembird USB Power Plug',
       author='Alexander Vollkopf',
       author_email='avollkopf@web.de',
-      url='',
+      url='https://github.com/avollkopf/cbpi4-GembirdUSB',
       include_package_data=True,
       package_data={
         # If any package contains *.txt or *.rst files, include them:
