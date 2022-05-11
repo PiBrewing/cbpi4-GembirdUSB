@@ -19,9 +19,6 @@ or from the GITHub repo via:
 
 `sudo pip3 install https://github.com/avollkopf/cbpi4-GembirdUSB/archive/main.zip`
 
-Afterwards, you need to activate it in cbpi with the following command (this won't be required for future versions of cbpi):
-
-`cbpi add cbpi4-GembirdUSB`
 
 ## Usage
 
